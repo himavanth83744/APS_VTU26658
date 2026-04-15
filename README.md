@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/himavanth83744/APS_VTU26658/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/himavanth83744/APS_VTU26658/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/himavanth83744/APS_VTU26658/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/himavanth83744/APS_VTU26658/tree/master/0169-majority-element) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/himavanth83744/APS_VTU26658/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/himavanth83744/APS_VTU26658/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/himavanth83744/APS_VTU26658/tree/master/0078-subsets) |
 ## Greedy
