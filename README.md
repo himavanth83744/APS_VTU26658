@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/himavanth83744/APS_VTU26658/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/himavanth83744/APS_VTU26658/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/himavanth83744/APS_VTU26658/tree/master/0733-flood-fill) |
+| [0929-unique-email-addresses](https://github.com/himavanth83744/APS_VTU26658/tree/master/0929-unique-email-addresses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/himavanth83744/APS_VTU26658/tree/master/0202-happy-number) |
 | [0721-accounts-merge](https://github.com/himavanth83744/APS_VTU26658/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/himavanth83744/APS_VTU26658/tree/master/0929-unique-email-addresses) |
 ## String
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/himavanth83744/APS_VTU26658/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/himavanth83744/APS_VTU26658/tree/master/0929-unique-email-addresses) |
 ## Sorting
 |  |
 | ------- |
