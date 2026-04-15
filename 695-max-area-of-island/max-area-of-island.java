@@ -1,18 +1,16 @@
 class Solution {
     public int maxAreaOfIsland(int[][] grid) {
-        int rows = grid.length;
-        int cols = grid[0].length;
-        int maxArea = 0;
+        int max = 0;
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[0].length; j++) {
                 if (grid[i][j] == 1) {
-                    maxArea = Math.max(maxArea, dfs(grid, i, j));
+                    max = Math.max(max, dfs(grid, i, j));
                 }
             }
         }
 
-        return maxArea;
+        return max;
     }
 
     private int dfs(int[][] grid, int r, int c) {
@@ -20,12 +18,11 @@ class Solution {
             return 0;
         }
 
-        grid[r][c] = 0; // mark visited
+        grid[r][c] = 0;
 
-        return 1
-            + dfs(grid, r + 1, c)
-            + dfs(grid, r - 1, c)
-            + dfs(grid, r, c + 1)
-            + dfs(grid, r, c - 1);
+        return 1 + dfs(grid, r + 1, c)
+                 + dfs(grid, r - 1, c)
+                 + dfs(grid, r, c + 1)
+                 + dfs(grid, r, c - 1);
     }
 }
