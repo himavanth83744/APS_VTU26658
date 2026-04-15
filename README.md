@@ -69,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/himavanth83744/APS_VTU26658/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/himavanth83744/APS_VTU26658/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/himavanth83744/APS_VTU26658/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/himavanth83744/APS_VTU26658/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
