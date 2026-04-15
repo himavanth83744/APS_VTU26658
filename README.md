@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/himavanth83744/APS_VTU26658/tree/master/0202-happy-number) |
 | [0721-accounts-merge](https://github.com/himavanth83744/APS_VTU26658/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/himavanth83744/APS_VTU26658/tree/master/0929-unique-email-addresses) |
+| [1763-longest-nice-substring](https://github.com/himavanth83744/APS_VTU26658/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/himavanth83744/APS_VTU26658/tree/master/0049-group-anagrams) |
 | [0721-accounts-merge](https://github.com/himavanth83744/APS_VTU26658/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/himavanth83744/APS_VTU26658/tree/master/0929-unique-email-addresses) |
+| [1763-longest-nice-substring](https://github.com/himavanth83744/APS_VTU26658/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/himavanth83744/APS_VTU26658/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/himavanth83744/APS_VTU26658/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/himavanth83744/APS_VTU26658/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -78,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/himavanth83744/APS_VTU26658/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/himavanth83744/APS_VTU26658/tree/master/1763-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/himavanth83744/APS_VTU26658/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
