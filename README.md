@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/himavanth83744/APS_VTU26658/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/himavanth83744/APS_VTU26658/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/himavanth83744/APS_VTU26658/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/himavanth83744/APS_VTU26658/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/himavanth83744/APS_VTU26658/tree/master/0733-flood-fill) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/himavanth83744/APS_VTU26658/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/himavanth83744/APS_VTU26658/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/himavanth83744/APS_VTU26658/tree/master/0202-happy-number) |
 | [0721-accounts-merge](https://github.com/himavanth83744/APS_VTU26658/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/himavanth83744/APS_VTU26658/tree/master/0929-unique-email-addresses) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/himavanth83744/APS_VTU26658/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/himavanth83744/APS_VTU26658/tree/master/0169-majority-element) |
 | [0721-accounts-merge](https://github.com/himavanth83744/APS_VTU26658/tree/master/0721-accounts-merge) |
 ## Math
 |  |
@@ -62,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/himavanth83744/APS_VTU26658/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/himavanth83744/APS_VTU26658/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/himavanth83744/APS_VTU26658/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
