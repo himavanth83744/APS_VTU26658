@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/himavanth83744/APS_VTU26658/tree/master/0202-happy-number) |
 | [0721-accounts-merge](https://github.com/himavanth83744/APS_VTU26658/tree/master/0721-accounts-merge) |
 ## String
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/himavanth83744/APS_VTU26658/tree/master/0721-accounts-merge) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/himavanth83744/APS_VTU26658/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/himavanth83744/APS_VTU26658/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
