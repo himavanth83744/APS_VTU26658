@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/himavanth83744/APS_VTU26658/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0721-accounts-merge](https://github.com/himavanth83744/APS_VTU26658/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/himavanth83744/APS_VTU26658/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/himavanth83744/APS_VTU26658/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/himavanth83744/APS_VTU26658/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/himavanth83744/APS_VTU26658/tree/master/0973-k-closest-points-to-origin) |
 ## Depth-First Search
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/himavanth83744/APS_VTU26658/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/himavanth83744/APS_VTU26658/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/himavanth83744/APS_VTU26658/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
